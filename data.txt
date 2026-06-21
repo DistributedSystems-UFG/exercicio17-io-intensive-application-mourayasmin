@@ -1,0 +1,5 @@
+Line 1: Sample data from server file
+Line 2: This is a simple text file
+Line 3: Used for testing network service
+Line 4: Reading data over the network
+Line 5: End of sample data
